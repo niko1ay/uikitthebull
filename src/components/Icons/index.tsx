@@ -6,7 +6,6 @@ import { ReactComponent as UserIconComponent } from '../../core/assets/icons/use
 
 
 export type IconProps = Partial<HTMLProps<SVGElement>>
-
 const DEFAULT_SIZE = 25
 
 const createIcon = (Icon: FC<IconProps>): FC<IconProps> => (props: IconProps) => (
