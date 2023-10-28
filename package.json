@@ -3,10 +3,10 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/niko1ay"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/esm/index.js",
-  "module": "dist/cjs/index.js", 
+  "module": "dist/cjs/index.js",
   "files": [
     "dist/**/*"
   ],
